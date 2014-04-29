@@ -3,8 +3,8 @@
 try {
   var spm = require('spm');
   spm.plugin.install({
-    name: 'build',
-    bin: 'spm-build',
+    name: 'slate-build',
+    bin: 'slate-build',
     description: 'Build a standar cmd module.'
   });
 } catch(e) {

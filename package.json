@@ -1,7 +1,7 @@
 {
     "name": "slate-build",
     "description": "build the standard cmd module",
-    "version": "0.1.0",
+    "version": "0.1.3",
     "homepage": "https://github.com/feeloc/slate-build",
     "repository": {
         "type": "git",
@@ -29,7 +29,7 @@
         "spm-grunt": "~0.1.7"
     },
     "bin": {
-        "spm-build": "bin/spm-build"
+        "slate-build": "bin/slate-build"
     },
     "keywords": [
         "spmplugin",
